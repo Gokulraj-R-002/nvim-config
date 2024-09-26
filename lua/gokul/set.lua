@@ -10,7 +10,7 @@ local g = vim.g
 vim.opt.title = true
 vim.opt.mouse = 'a'
 -- o.mousemodel = "popup"
--- o.clipboard = 
+vim.opt.clipboard = 'unnamedplus'
 
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
